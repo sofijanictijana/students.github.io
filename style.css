@@ -1,0 +1,47 @@
+body{
+    background-color:#000000;
+    padding: 3%;
+    color: whitesmoke;
+}
+.content{
+    padding: 3%;
+}
+.first{
+    background-color: #FAEBD7;
+}
+.second{
+    background-color: #A52A2A;
+    padding: 4%;
+}
+.whit{
+    background-color: whitesmoke;
+    color:black;
+}
+h2{
+	color:#A52A2A;
+	padding-top:2rem;
+	font-size: 1.5rem;
+}
+.btn{
+	background-color:  #FAEBD7;
+	border-color:  #FAEBD7;
+	color:#A52A2A;
+	
+}
+.btn:hover{
+	background-color: #A52A2A;
+	border-color: #FAEBD7;
+}
+h1{
+	font-size: 2rem;
+	padding-bottom:1rem;
+	color: #FAEBD7;
+}
+h3{
+	color:#A52A2A;
+	font-size: 1.5rem;
+}
+.btn-secondary{
+	background-color:  #FAEBD7!important;
+	color:#A52A2A!important;
+}
